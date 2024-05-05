@@ -4,7 +4,7 @@
     "Version": "1.0.0",
     "Description": "Monster stats are 10 percent lower",
     "UniqueID": "ravenhyde.slightlyeasiercombat",
-    "UpdateKeys": [],
+    "UpdateKeys": ["github:lillibetsmith/Ravenhyde-SlightlyEasierCombat"],
     "ContentPackFor": {
         "UniqueID": "Pathoschild.ContentPatcher"
     }
