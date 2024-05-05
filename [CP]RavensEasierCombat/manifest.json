@@ -1,0 +1,11 @@
+{
+    "Name": "Raven's Slightly Easier Combat",
+    "Author": "ravenhyde",
+    "Version": "1.0.0",
+    "Description": "Monster stats are 10 percent lower",
+    "UniqueID": "ravenhyde.slightlyeasiercombat",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
